@@ -1,4 +1,4 @@
-# popmartbot
+# popmart bot
 Fast Checkout Bot for Popmart sites
 
 - If you are interested, Please Join here. https://discord.gg/UKrcGvygZM
