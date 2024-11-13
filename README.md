@@ -2,7 +2,7 @@
 Fast Checkout Bot for Popmart sites
 
 - If you are interested, Please Join here. https://discord.gg/UKrcGvygZM
-
+- If you want to test, please join here. https://whop.com/checkout/plan_KwVysM0OABczv/
 - or send email.
 [magdev2@proton.me](mailto:magdev2@proton.me)
 
